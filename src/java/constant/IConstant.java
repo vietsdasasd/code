@@ -1,0 +1,14 @@
+package constant;
+
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+
+/**
+ *
+ * @author HP
+ */
+public class IConstant {
+    public static final String pathProduct = "./images/products_img";
+}
